@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        // declaring variables
+        // declaring variables to get input for five numbers
         int num1;
         int num2;
         int num3;
