@@ -125,4 +125,6 @@
         // printing how many numbers are negative
         Console.WriteLine("Number Of Negative Numbers In Entered Numbers Are:  " + negative);
     }
+    // end of Main method
 }
+// end of C3Q30 class
